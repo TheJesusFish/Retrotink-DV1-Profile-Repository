@@ -14,6 +14,7 @@ This repository was created (and is maintained) by a monster. Their brain worms 
 - VRR
 - Genlock
 - Deep Color
+- Target Decimation Set to 1600 for all console cores
 
 This is the profile the creator uses. If your TV supports Deeep Color and VRR, you shoudl use it too.
 
