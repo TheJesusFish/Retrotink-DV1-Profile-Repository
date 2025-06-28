@@ -1,5 +1,4 @@
 # Retrotink-DV1-Profile-Repository
-A repository for folks with brain worms and a penchant for poor financial decisions
 
 ## Nonsense
 This repository was created (and is maintained) by a monster. Their brain worms are akin to Ophiocordyceps unilateralis, forcing their host to perfectly rotate and crop their MiSTer games before they are allowed autonomy. Their suffering is your gain - congratulations.
@@ -40,5 +39,7 @@ Some Toaplan (and Toaplan adjacent) games don't play well with direct video and 
 ### Why is a profile for [game] missing?
 Probably because the game was released after I released a pack for the month. I'm going to try to release towards the end of every month, but that means that there will be a period of time every month where new cores aren't yet in the zip.
 
-In those instances, I will try to keep the /Raw Files/To Be Merged/[name of pack] up to date with any new cores that aren't in the latest zipfile. If you don't want to wait for a formal release, you can download the individual profiles there and add them to your SD card (but, and look me in the eye, if you don't have the stamina to adjust one or two games yourself, what are we even doing here?)
+In those instances, I will try to keep the /Raw Files/To Be Merged/[name of pack] up to date with any new cores that aren't in the latest zipfile. If you don't want to wait for a formal release, you can download the individual profiles there and add them to your SD card.
+
+(But - and look me in the eye here- if you don't have the stamina to adjust one or two games yourself, what are we even doing here?)
 
