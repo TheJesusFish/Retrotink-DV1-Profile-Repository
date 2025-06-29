@@ -50,4 +50,4 @@ Probably because the game was released after I released a pack for the month. I'
 
 In those instances, I will try to keep the /Raw Files/To Be Merged/[name of pack] up to date with any new cores that aren't in the latest zipfile. If you don't want to wait for a formal release, you can download the individual profiles there and add them to your SD card.
 
-(But - and look me in the eye here- if you don't have the stamina to adjust one or two games yourself, what are we even doing here?)
+(But - and look me in the eye here - if you don't have the stamina to adjust one or two games yourself, what are we even doing here?)
