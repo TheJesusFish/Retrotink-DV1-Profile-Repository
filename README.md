@@ -8,6 +8,11 @@ Unzip the pack of your choice into the profiles/DV1 folder on your Retrotink 4K'
 
 Make sure your MiSTer has `direct_video=1` enabled in your MiSTer.ini and that **Auto-Load DV1** Profiles is set to **ON** in the Retrotink's Profile Menu.
 
+You may also want to add
+```[Menu]
+direct_video=0```
+to the bottom of your MiSTer.ini as I don't include a menu crop in the basic set.
+
 ## Flavors
 ### God's Chosen
 - [Kuro Houou's JVC D Series](https://drive.google.com/drive/folders/1zxQqn36P6QPx3mu83SuNplTbbwID1YA2) profile used for Console Games
@@ -51,3 +56,6 @@ Probably because the game was released after I released a pack for the month. I'
 In those instances, I will try to keep the /Raw Files/To Be Merged/[name of pack] up to date with any new cores that aren't in the latest zipfile. If you don't want to wait for a formal release, you can download the individual profiles there and add them to your SD card.
 
 (But - and look me in the eye here - if you don't have the stamina to adjust one or two games yourself, what are we even doing here?)
+
+### Can I request a set based on different profiles?
+Totally. Please post an [issue](https://github.com/TheJesusFish/Retrotink-DV1-Profile-Repository/issues) for the combo you'd like. If an issue already exists, just +1 it. If something gets a bunch of votes, or I find it interesting, I'll make a set and add it to the releases.
