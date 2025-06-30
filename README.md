@@ -10,7 +10,8 @@ Make sure your MiSTer has `direct_video=1` enabled in your MiSTer.ini and that *
 
 You may also want to add
 ```[Menu]
-direct_video=0```
+direct_video=0
+```
 to the bottom of your MiSTer.ini as I don't include a menu crop in the basic set.
 
 ## Flavors
