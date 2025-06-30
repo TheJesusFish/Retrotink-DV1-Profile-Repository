@@ -9,7 +9,8 @@ Unzip the pack of your choice into the profile/DV1 folder on your Retrotink 4K's
 Make sure your MiSTer has `direct_video=1` enabled in your MiSTer.ini and that **Auto-Load DV1** Profiles is set to **ON** in the Retrotink's Profile Menu.
 
 You may also want to add
-```[Menu]
+```
+[Menu]
 direct_video=0
 ```
 to the bottom of your MiSTer.ini as I don't include a menu crop in the basic set.
