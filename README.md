@@ -4,7 +4,7 @@
 This repository was created (and is maintained) by a monster. Their brain worms are akin to Ophiocordyceps unilateralis, forcing their host to perfectly rotate and crop their MiSTer games before they are allowed autonomy. Their suffering is your gain - congratulations.
 
 ## Installation
-Unzip the pack of your choice into the profiles/DV1 folder on your Retrotink 4K's SD Card.
+Unzip the pack of your choice into the profile/DV1 folder on your Retrotink 4K's SD Card.
 
 Make sure your MiSTer has `direct_video=1` enabled in your MiSTer.ini and that **Auto-Load DV1** Profiles is set to **ON** in the Retrotink's Profile Menu.
 
@@ -57,5 +57,5 @@ In those instances, I will try to keep the /Raw Files/To Be Merged/[name of pack
 
 (But - and look me in the eye here - if you don't have the stamina to adjust one or two games yourself, what are we even doing here?)
 
-### Can I request a set based on different profiles?
+### Can I request a set based on different CRT profiles?
 Totally. Please post an [issue](https://github.com/TheJesusFish/Retrotink-DV1-Profile-Repository/issues) for the combo you'd like. If an issue already exists, just +1 it. If something gets a bunch of votes, or I find it interesting, I'll make a set and add it to the releases.
