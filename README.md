@@ -9,7 +9,9 @@ Unzip the pack of your choice into the profile/DV1 folder on your Retrotink 4K's
 Make sure your MiSTer has `direct_video=1` enabled in your MiSTer.ini and that **Auto-Load DV1** Profiles is set to **ON** in the Retrotink's Profile Menu.
 
 ## Setup
-I have a [Mister Pi (Dual Ram) from RetroRemake](https://retroremake.co/products/misterpi-preorder) hooked up to [this generic Amazon Switch](https://www.amazon.com/dp/B0CC4LGH2C) which is then hooked up to a 77" LG CX. The God's Chosen profile works fine in this setup.
+I have a [Mister Pi (Dual Ram) from RetroRemake](https://retroremake.co/products/misterpi-preorder) hooked up to [this generic Amazon Switch](https://www.amazon.com/dp/B0CC4LGH2C) which is then hooked up to a 77" LG CX in PC Mode.
+
+The God's Chosen profile works fine in this setup.
 
 ## Flavors
 ### Standard
