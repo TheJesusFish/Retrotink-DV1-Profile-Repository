@@ -53,7 +53,7 @@ Another possibility is that Toaplan (and Toaplan adjacent) games don't play well
 Either way, please file an [issue](https://github.com/TheJesusFish/Retrotink-DV1-Profile-Repository/issues) for it (if one doesn't exist already). This will help me immensely.
 
 ### Why is a profile for [game] missing?
-Probably because the game was released after I released a pack for the month. I'm going to try to release towards the end of every month, but that means that there will be a period of time every month where new cores aren't yet in the zip.
+Probably because the game was released after I released a pack for the month. I'm going to try to release around the beginning of every month, but that means that there will be a period of time every month where new cores aren't yet in the zip.
 
 In those instances, I will try to keep the /Raw Files/To Be Merged/[name of pack] up to date with any new cores that aren't in the latest zipfile. If you don't want to wait for a formal release, you can download the individual profiles there and add them to your SD card.
 
