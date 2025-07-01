@@ -23,8 +23,9 @@ I have a [Mister Pi (Dual Ram) from RetroRemake](https://retroremake.co/products
 - Target Decimation Set to 1600 for all console cores
 
 ### God's Chosen
-Identical to [Standard](###Standard) except for
+Identical to [Standard](#Standard) except for
 - Deep Color
+
 (This is the profile the creator uses. If your TV supports Deep Color and VRR, you should use it too.)
 
 ### More soon...
