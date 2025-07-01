@@ -8,15 +8,11 @@ Unzip the pack of your choice into the profile/DV1 folder on your Retrotink 4K's
 
 Make sure your MiSTer has `direct_video=1` enabled in your MiSTer.ini and that **Auto-Load DV1** Profiles is set to **ON** in the Retrotink's Profile Menu.
 
-You may also want to add
-```
-[Menu]
-direct_video=0
-```
-to the bottom of your MiSTer.ini as I don't include a menu crop in the basic set.
+## Setup
+I have a [Mister Pi (Dual Ram) from RetroRemake](https://retroremake.co/products/misterpi-preorder) hooked up to [this generic Amazon Switch](https://www.amazon.com/dp/B0CC4LGH2C) which is then hooked up to a 77" LG CX. The God's Chosen profile works fine in this setup.
 
 ## Flavors
-### God's Chosen
+### Standard
 - [Kuro Houou's JVC D Series](https://drive.google.com/drive/folders/1zxQqn36P6QPx3mu83SuNplTbbwID1YA2) profile used for Console Games
 - [Kuro Houou's PVM 20L5](https://drive.google.com/drive/folders/1zxQqn36P6QPx3mu83SuNplTbbwID1YA2) profile used for Arcade Games
 - [Billgonzo's GBA 13x](https://drive.google.com/file/d/1ufSYAiScmM7nV4Y4fwtUBcxVMxxL-RrZ/view?usp=drive_link) profile for GBA
@@ -24,10 +20,12 @@ to the bottom of your MiSTer.ini as I don't include a menu crop in the basic set
 - [Fox 83's HDMI LCD](https://discord.com/channels/930567895069642762/1284516597523812364/1381670548861485106) profile for Gameboy
 - VRR
 - Genlock
-- Deep Color
 - Target Decimation Set to 1600 for all console cores
 
-This is the profile the creator uses. If your TV supports Deep Color and VRR, you should use it too.
+### God's Chosen
+Identical to [Standard](###Standard) except for
+- Deep Color
+(This is the profile the creator uses. If your TV supports Deep Color and VRR, you should use it too.)
 
 ### More soon...
 
