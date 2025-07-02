@@ -22,7 +22,7 @@ The God's Chosen profile works fine in this setup.
 - [Fox 83's HDMI LCD](https://discord.com/channels/930567895069642762/1284516597523812364/1381670548861485106) profile for Gameboy
 - VRR
 - Genlock
-- Target Decimation Set to 1600 for all console cores
+- Target Decimation Set to 1600 for all console profiles.
 
 ### God's Chosen
 Identical to [Standard](#Standard) except for
