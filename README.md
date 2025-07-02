@@ -6,7 +6,7 @@ This repository was created (and is maintained) by a monster. Their brain worms 
 ## Installation
 Unzip the pack of your choice into the profile/DV1 folder on your Retrotink 4K's SD Card.
 
-Make sure your MiSTer has `direct_video=1` enabled in your MiSTer.ini and that **Auto-Load DV1** Profiles is set to **ON** in the Retrotink's Profile Menu.
+Make sure your MiSTer has `direct_video=1` enabled in your MiSTer.ini and that **Auto-Load DV1** Profiles is set to **ON** in the Retrotink's Profile Menu. **These profiles require Tink4K firmware 1.9.3 or later.**
 
 ## Setup
 I have a [Mister Pi (Dual Ram) from RetroRemake](https://retroremake.co/products/misterpi-preorder) hooked up to [this generic Amazon Switch](https://www.amazon.com/dp/B0CC4LGH2C) which is then hooked up to a 77" LG CX in PC Mode.
@@ -49,9 +49,9 @@ There are two possibilities here.
 
 First, I may have just missed it. I am (mostly) human and there are 900+ games here - I probably missed something.
 
-Another possibility is that Toaplan (and Toaplan adjacent) games don't play well with direct video and cannot be decimated, cropped, or rotated correctly. Until they receive updates, there isn't much I can do.
+Another possibility is that Toaplan (and Toaplan adjacent) games don't play well with direct video. Most cannot be decimated, cropped, or rotated correctly. Until they receive updates, there isn't much I can do.
 
-Either way, please file an [issue](https://github.com/TheJesusFish/Retrotink-DV1-Profile-Repository/issues) for it (if one doesn't exist already). This will help me immensely.
+In either case, please file an [issue](https://github.com/TheJesusFish/Retrotink-DV1-Profile-Repository/issues) for the non-rotated profile (if one doesn't exist already). This will help me immensely.
 
 ### Why is a profile for [game] missing?
 Probably because the game was released after I released a pack for the month. I'm going to try to release around the beginning of every month, but that means that there will be a period of time every month where new cores aren't yet in the zip.
