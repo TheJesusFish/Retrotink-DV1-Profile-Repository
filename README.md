@@ -11,7 +11,7 @@ Make sure your MiSTer has `direct_video=1` enabled in your MiSTer.ini and that *
 **These profiles require Tink4K firmware 1.9.3 or later and should be compatible with both the CE and Pro models**
 
 ## Setup
-I have a [Mister Pi (Dual Ram) from RetroRemake](https://retroremake.co/products/misterpi-preorder) hooked up to [this generic Amazon Switch](https://www.amazon.com/dp/B0CC4LGH2C) which is then hooked up to a 77" LG CX in PC Mode.
+I have a [Mister Pi (Dual Ram) from RetroRemake](https://retroremake.co/products/misterpi-preorder) hooked up to a [generic Amazon Switch](https://www.amazon.com/dp/B0CC4LGH2C) which is then hooked up to a 77" LG CX in [PC Mode](https://www.reddit.com/r/OLED/comments/j38q67/comment/g7d44aq/).
 
 The God's Chosen profile works fine in this setup.
 
