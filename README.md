@@ -58,7 +58,7 @@ In either case, please file an [issue](https://github.com/TheJesusFish/Retrotink
 ### Why is a profile for [game] missing?
 Probably because the game was released after I released a pack for the month. I'm going to try to release around the beginning of every month, but that means that there will be a period of time every month where new cores aren't yet in the zip.
 
-In those instances, I will try to keep the /Raw Files/To Be Merged/[name of pack] up to date with any new cores that aren't in the latest zipfile. If you don't want to wait for a formal release, you can download the individual profiles there and add them to your SD card.
+In those instances, I will try to keep the /Raw Files/To Be Released/[name of pack] up to date with any new cores that aren't in the latest zipfile. If you don't want to wait for a formal release, you can download the individual profiles there and add them to your SD card.
 
 (But - and look me in the eye here - if you don't have the stamina to adjust one or two games yourself, what are we even doing here?)
 
