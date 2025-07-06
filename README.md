@@ -65,10 +65,11 @@ In those instances, I will try to keep the /Raw Files/To Be Released/[name of pa
 ### Can I request a set based on different CRT profiles?
 Totally. Please post an [issue](https://github.com/TheJesusFish/Retrotink-DV1-Profile-Repository/issues) for the combo you'd like. If an issue already exists, just +1 it. If something gets a bunch of votes, or I find it interesting, I'll make a set and add it to the releases.
 
-## ThanX and GrEETs
+## GrEEtZ and THaNX
 - [Kuro Houou](https://x.com/kurohouou), Billgonzo, and Fox 83 for their profiles.
 - [Matt Retrogamer](https://github.com/Matt-Retrogamer/mister-rt4k-dv1-profiles-generator) who's script makes this whole thing less painful.
 - [Mike Chi](https://x.com/retrotink2) for reminding us to just play the dang games.
 - The Lovers
 - The Haters
-- Your mom
+
+Say "Hi" to your mother for me.
