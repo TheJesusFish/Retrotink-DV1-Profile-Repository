@@ -8,7 +8,7 @@ Unzip the pack of your choice into the profile/DV1 folder on your Retrotink 4K's
 
 Make sure your MiSTer has `direct_video=1` enabled in your MiSTer.ini and that **Auto-Load DV1** Profiles is set to **ON** in the Retrotink's Profile Menu.
 
-**These profiles require Tink4K firmware 1.9.3 or later and should be compatible with both the CE and Pro models**
+**These profiles require Tink4K firmware 1.9.3 or later and should be compatible with both the CE and Pro models (although you won't get rotation on the CE).**
 
 ## My Setup (where these profiles were created)
 I have a [Mister Pi (Dual Ram) from RetroRemake](https://retroremake.co/products/misterpi-preorder) hooked up to a [generic Amazon Switch](https://www.amazon.com/dp/B0CC4LGH2C) which is then hooked up to a 77" LG CX in [PC Mode](https://www.reddit.com/r/OLED/comments/j38q67/comment/g7d44aq/).
