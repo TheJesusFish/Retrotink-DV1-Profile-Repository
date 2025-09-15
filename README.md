@@ -15,7 +15,7 @@ I have a [Mister Pi (Dual Ram) from RetroRemake](https://retroremake.co/products
 
 The God's Chosen profile works fine in this setup.
 
-All profile adjustments are cataloged on [this Google Sheet](https://docs.google.com/spreadsheets/d/14QZWZwbQN1FVbOtnZs4nFk9UAn8rdIzWKm78_JN6css/edit?usp=sharing).
+All profile adjustments are cataloged on [this Google Sheet](https://docs.google.com/spreadsheets/d/14QZWZwbQN1FVbOtnZs4nFk9UAn8rdIzWKm78_JN6css/edit?usp=sharing). It should be noted that manually cropped games may not match the resolution reported by the core - but they will match the content.
 
 ## Flavors
 ### Standard
