@@ -4,11 +4,15 @@
 This repository was created (and is maintained) by a monster. Their brain worms are akin to Ophiocordyceps unilateralis, forcing their host to perfectly rotate and crop their MiSTer games before they are allowed autonomy. Their suffering is your gain - congratulations.
 
 ## Installation
+### Profile Pack
 Unzip the pack of your choice into the profile/DV1 folder on your Retrotink 4K's SD Card.
 
 Make sure your MiSTer has `direct_video=1` enabled in your MiSTer.ini and that **Auto-Load DV1** Profiles is set to **ON** in the Retrotink's Profile Menu.
 
 **These profiles require Tink4K firmware 1.9.3 or later and should be compatible with both the CE and Pro models (although you won't get rotation on the CE).**
+
+### Dip Switches
+Unzip the files into /media/fat/config/dips
 
 ## My Setup (where these profiles were created)
 I have a [Mister Pi (Dual Ram) from RetroRemake](https://retroremake.co/products/misterpi-preorder) hooked up to a [generic Amazon Switch](https://www.amazon.com/dp/B0CC4LGH2C) which is then hooked up to a 77" LG CX in [PC Mode](https://www.reddit.com/r/OLED/comments/j38q67/comment/g7d44aq/).
@@ -42,11 +46,7 @@ Identical to [Standard](#Standard) except for
 Aside from setting Target Decimation to 1600? Nothing. They look fine to my brain worms.
 
 ### Why are some of the games upside down?
-**TL;DR: Look for a "flip" dipswitch in the core's Menu**
-
-For some reason, the Tink4k rotates 90 Degrees Left cleaner than 90 Degrees Right so, for my own sanity, I use the flip dip switch (when available) to accommodate that.
-
-I hope that both sides of the pillow are eternally cool for any dev who exposes this dipswitch in the menu.
+You need to install the Dip Switch pack.
 
 ### Why are there some games that aren't rotated or cropped properly?
 There are two possibilities here.
