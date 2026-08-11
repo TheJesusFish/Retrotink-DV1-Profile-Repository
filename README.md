@@ -39,6 +39,7 @@ Totally. Please post an [issue](https://github.com/TheJesusFish/Retrotink-DV1-Pr
 ## GrEEtZ and THaNX
 - [Kuro Houou](https://x.com/kurohouou), Billgonzo, and Fox 83 for their profiles.
 - [Matt Retrogamer](https://github.com/Matt-Retrogamer/mister-rt4k-dv1-profiles-generator) who's script makes this whole thing less painful.
+- Pipe for their amazing [Retrotink Profile Editor](https://rt4k-profiler.pipe.hr).
 - [Mike Chi](https://x.com/retrotink2) for reminding us to just play the dang games.
 - The Lovers
 - The Haters
