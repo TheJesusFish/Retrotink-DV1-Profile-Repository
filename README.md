@@ -20,8 +20,8 @@ Make sure your MiSTer has `direct_video=1` enabled in your MiSTer.ini and that *
 - [Billgonzo's GBA 13x](https://drive.google.com/file/d/1ufSYAiScmM7nV4Y4fwtUBcxVMxxL-RrZ/view?usp=drive_link) profile for GBA
 - [Billgonzo's GBC 15x](https://drive.google.com/file/d/1ufSYAiScmM7nV4Y4fwtUBcxVMxxL-RrZ/view?usp=drive_link) profile for GBC
 - [Fox 83's HDMI LCD](https://discord.com/channels/930567895069642762/1284516597523812364/1381670548861485106) profile for Gameboy
-- VRR
-- Genlock
+- VRR (Both VESA and Freesync Sets)
+- True VRR (with a fallback to Gunlock)
 - Target Decimation Set to 1600 for all console profiles.
 
 ### Full Sets
